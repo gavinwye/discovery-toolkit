@@ -7,3 +7,4 @@ A toolkit of reusable resources for doing discovery.
 - User research interview discussion guide
 - Stakeholder map
 - Service map
+- Sitemap template
